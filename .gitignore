@@ -1,3 +1,5 @@
 env/*
 *.jpeg
 *.jpg
+__pycache__
+*.h5
