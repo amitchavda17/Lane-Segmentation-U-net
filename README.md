@@ -14,7 +14,7 @@ This repositroy contains a keras implementation of U-net model for segmenting im
 
 4) Inference:
    ```
-   python inference.py --source[path to image/image/folder] -- weights [path to weight file] --output  [path for storing results(img segmentation)] (default './results')
+   python inference.py --source[path to image/image folder] --weights [path to weight file] --output[path for storing results(lane masks)](default './results')
    ```
 
    
